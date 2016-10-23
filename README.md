@@ -6,3 +6,6 @@ Demo app ```webtest.swift```:
 
 Compilation using ```swifta.sh```:    
 ![compile](https://github.com/pakLebah/simpleWeb/blob/master/swifta%20on%20linux.png)
+
+The live demo can be seen here: http://cak.lebah.web.id/webtest.cgi
+(It's on a free CodeAnywhere container, so it doesn't always on.)
