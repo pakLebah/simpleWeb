@@ -76,6 +76,7 @@ if webHasInput {
       if !txt.isEmpty { webWriteBlock(txt) }
       webCloseList()
   }
+  
   let linkMod  = webGetLink("viewcode.cgi?file=SimpleWeb.swift", caption: "here")
   let linkDemo = webGetLink("viewcode.cgi?file=webtest.swift", caption: "here")
   webWriteln("<p>Source code of the module is \(linkMod) and the demo is \(linkDemo).")
